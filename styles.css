@@ -15,6 +15,7 @@ p {
 
 .myDiv {
 	border: 2px dotted;
+	border-color: white;
 	width: 100px;
 	height: 100px;
 }
