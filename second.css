@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(96, 96, 96);
+	background-color: rgb(64, 64, 64);
 		color: rgb(0, 0, 0);
 		width: 90%;
 	margin-left: auto;
@@ -22,7 +22,7 @@ figure {
 .header {
   padding: 60px;
   text-align: center;
-  background: rgb(160, 160, 160);
+  background: rgb(96, 96, 96);
   color: black;
   font-size: 30px;
   border-style: solid;
@@ -31,7 +31,7 @@ figure {
 .nav {
 	padding: 60px;
 	text-align: center;
-	background: rgb(160, 160, 160);
+	background: rgb(128, 128, 128);
 	color: black;
 	font-size: 16px;
 	border-style: solid;
