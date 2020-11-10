@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(64, 64, 64);
+	background-color: rgb(96, 96, 96);
 		color: rgb(0, 0, 0);
 
 }
@@ -12,7 +12,7 @@ h1 {
 p {
 	border-style: solid;
 	border-radius: 15px;
-	background-color: rgb(94, 94, 94);
+	background-color: rgb(128, 128, 128);
 	width: 300px;
 	padding: 20px;
 	margin: 20px;
