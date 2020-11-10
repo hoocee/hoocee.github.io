@@ -39,7 +39,7 @@ figure {
 
 .section {
 	padding: 60px;
-	text-align: center;
+	text-align: left;
 	background-color: rgb(160, 160, 160);
 	color: black;
 	font-size: 12px;
@@ -47,5 +47,11 @@ figure {
 }
 
 .nav_left {
+	padding: 60px;
+	text-align: left;
+	background-color: rgb(192, 192, 192);
+	color: black;
+	font-size: 12px;
+	border-style: solid;
 	float: left;
 }
