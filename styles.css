@@ -29,3 +29,7 @@ ol {
 	list-style-type: lower-alpha;
 }
 
+figure {
+	float: left;
+	
+}
