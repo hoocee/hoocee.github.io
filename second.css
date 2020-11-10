@@ -8,11 +8,6 @@ body {
 
 }
 
-h1 {
-	border-style: solid;
-
-}
-
 p {
 	border-style: solid;
 	border-radius: 15px;
@@ -34,6 +29,7 @@ figure {
   background: rgb(160, 160, 160);
   color: black;
   font-size: 30px;
+  border-style: solid;
 }
 
 .nav {
@@ -42,6 +38,7 @@ figure {
 	background: rgb(160, 160, 160);
 	color: black;
 	font-size: 16px;
+	border-style: solid;
 }
 
 .section {
@@ -50,4 +47,5 @@ figure {
 	background: rgb(160, 160, 160);
 	color: black;
 	font-size: 12px;
+	border-style: solid;
 }
