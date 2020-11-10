@@ -15,11 +15,12 @@ p {
 	background-color: rgb(128, 128, 128);
 	width: 300px;
 	padding: 20px;
-	margin: 20px;
+	margin: 0px;
 	
 }
 
 figure {
+	margin: 0px;
 	display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
