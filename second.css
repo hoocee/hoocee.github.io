@@ -9,13 +9,7 @@ body {
 }
 
 p {
-	border-style: solid;
-	border-radius: 15px;
-	background-color: rgb(128, 128, 128);
-	width: 200px;
-	padding: 20px;
 	text-align: center;
-	vertical-align: middle;
 }
 
 figure {
