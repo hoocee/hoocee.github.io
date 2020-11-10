@@ -52,3 +52,11 @@ figure {
 	font-size: 12px;
 	float: left;
 }
+
+.footer {
+	padding: 15px;
+	text-align: center;
+	background-color: rgb(96, 96, 96);
+	color: black;
+	font-size: 10px;
+}
