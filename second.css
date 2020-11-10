@@ -20,6 +20,10 @@ p {
 }
 
 figure {
-	margin-left: 0px;
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 40px;
 	
 }
