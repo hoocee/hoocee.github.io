@@ -14,9 +14,7 @@ p {
 
 figure {
 	margin: 0px;
-	text-align: center;
-
-	
+	text-align: center;	
 }
 
 .header {
@@ -25,7 +23,6 @@ figure {
   background-color: rgb(96, 96, 96);
   color: black;
   font-size: 30px;
-  border-style: solid;
 }
 
 .nav {
@@ -34,7 +31,6 @@ figure {
 	background-color: rgb(128, 128, 128);
 	color: black;
 	font-size: 16px;
-	border-style: solid;
 }
 
 .section {
@@ -43,15 +39,16 @@ figure {
 	background-color: rgb(160, 160, 160);
 	color: black;
 	font-size: 12px;
-	border-style: solid;
 }
 
 .nav_left {
-	padding: 60px;
+	padding-top: 10px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	padding-left: 0px;
 	text-align: left;
 	background-color: rgb(192, 192, 192);
 	color: black;
 	font-size: 12px;
-	border-style: solid;
 	float: left;
 }
