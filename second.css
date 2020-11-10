@@ -15,8 +15,8 @@ p {
 	background-color: rgb(128, 128, 128);
 	width: 200px;
 	padding: 20px;
-	margin: 0px;
-	
+	margin-left: 0px;
+	margin-bottom: 16px;
 }
 
 figure {
