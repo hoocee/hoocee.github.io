@@ -15,10 +15,12 @@ p {
 	width: 200px;
 	padding: 20px;
 	margin: 16px 0px 16px 0px;
+	text-align: center;
 }
 
 figure {
 	margin: 0px;
+	text-align: center;
 
 	
 }
