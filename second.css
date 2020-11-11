@@ -46,7 +46,7 @@ a:hover {
 	text-align: left;
 	background-color: rgb(160, 160, 160);
 	font-size: 12px;
-	flex: 90%;
+	flex: 1;
 }
 
 .nav_left {
@@ -57,7 +57,7 @@ a:hover {
 	text-align: left;
 	background-color: rgb(192, 192, 192);
 	font-size: 12px;
-	flex: 10%;
+	flex: 0;
 }
 
 .footer {
