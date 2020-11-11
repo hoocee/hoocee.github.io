@@ -42,7 +42,7 @@ a:hover {
 	text-align: left;
 	background-color: rgb(160, 160, 160);
 	font-size: 12px;
-	height: 300px;
+	height: auto;
 }
 
 .nav_left {
