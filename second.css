@@ -16,6 +16,10 @@ figure {
 	margin: 0px;
 }
 
+a:hover {
+	color: red;
+}
+
 .header {
   padding: 60px;
   text-align: center;
