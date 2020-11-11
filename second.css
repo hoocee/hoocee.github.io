@@ -38,19 +38,19 @@ figure {
 	text-align: left;
 	background-color: rgb(160, 160, 160);
 	font-size: 12px;
-	height: 400px;
+	height: 300px;
 }
 
 .nav_left {
 	padding-top: 15px;
 	padding-right: 50px;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 	padding-left: 1px;
 	text-align: left;
 	background-color: rgb(192, 192, 192);
 	font-size: 12px;
 	float: left;
-	height: 400px;
+	height: 390px;
 }
 
 .footer {
