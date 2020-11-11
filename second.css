@@ -35,8 +35,8 @@ a:hover {
 }
 
 .content {
-	height: 300px
 	display: flex;
+	height: 300px;
 }
 }
 
