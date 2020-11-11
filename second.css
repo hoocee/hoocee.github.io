@@ -37,6 +37,7 @@ a:hover {
 .content {
 	display: flex;
 	height: 300px;
+	flex-wrap: wrap;
 }
 }
 
