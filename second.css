@@ -38,6 +38,7 @@ figure {
 	background-color: rgb(160, 160, 160);
 	color: black;
 	font-size: 12px;
+	height: 400px;
 }
 
 .nav_left {
@@ -50,6 +51,7 @@ figure {
 	color: black;
 	font-size: 12px;
 	float: left;
+	height: 400px;
 }
 
 .footer {
