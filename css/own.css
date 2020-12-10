@@ -37,10 +37,7 @@
 .nav-link {
 	color: white;
 }
-.nav-link:hover {
-	color: orange;
-	transition: all 0,3s;
-}
+
 .responsive {
   width: 100%;
   height: auto;
@@ -59,7 +56,6 @@
 
 .email:hover {
 	color: black;
-	transition: all 0,3s;
 }
 
 .btn {
