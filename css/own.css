@@ -1,6 +1,6 @@
 .row {
-	text-align:center;
-	max-width:100%;height:auto;
+	text-align: center;
+	max-width: 100%;height:auto;
 }
 #banner {
 	max-width:100%;height:auto;
@@ -14,7 +14,15 @@
 }
 .img {
 	max-width:100%;
-	height:300px;
+	height:150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.smallimg {
+	max-width:100%;
+	height:50px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -24,4 +32,60 @@
 }
 .col-sm {
 	text-align:center
+}
+
+.nav-link {
+	color: white;
+}
+.nav-link:hover {
+	color: orange;
+	transition: all 0,3s;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+.navbar-brand {
+	color: orange;
+}
+
+.navbar-brand:hover {
+	color: orange;
+}
+
+.email {
+	color: orange;
+}
+
+.email:hover {
+	color: black;
+	transition: all 0,3s;
+}
+
+.btn {
+	margin: 10px;
+	background-color: orange;
+	border: 1px solid grey;
+}
+
+.btn:hover {
+	color: black;
+	background-color: darkorange;
+	transition: all 1s;
+	
+}
+.navbar-toggler-icon {
+	color: -internal-white-black;
+}
+
+#tutustu {
+	margin-top: 34px;
+}
+
+h1, h2, h3, h4, h5, h5 {
+	color: orange;
+}
+
+#list {
+	text-align: left;
 }
